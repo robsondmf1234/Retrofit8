@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">RetrofitTutorial8</string>
+    <string name="txtTitle">Title</string>
+    <string name="txtBody">Body</string>
+    <string name="txtId">Id</string>
+    <string name="txtUserId">User Id</string>
+    <string name="txtBtn">GET</string>
+    <string name="txtHint">Number</string>
+</resources>
